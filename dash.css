@@ -1993,9 +1993,9 @@ footer .title{
         padding-top: 0px;
     }
 
-    .white-back5 .content{
+    /* .white-back5 .content{
         width: min-content;
-    }
+    } */
 
     .white-back5 .article-main{
         justify-content: center;
@@ -2003,12 +2003,11 @@ footer .title{
 
     .white-back5{
         margin-bottom: 100px;
-
     }
 
-    .white-back6 .content{
+    /* .white-back6 .content{
         width: min-content;
-    }
+    } */
 
     .white-back6 .article-main{
         justify-content: center;
@@ -2017,7 +2016,7 @@ footer .title{
 
     .white-back5 .content h1{
         font-size: 30px;
-        text-align: center;
+        text-align: left;
          margin-top: 40px;
     }
 
@@ -2033,6 +2032,19 @@ footer .title{
          margin-top: 40px;
     }
 
+    .white-back6 .content{
+       
+        max-width: 550px;
+    
+
+    }
+
+       .white-back6 .content h1{
+       
+        text-align: left;
+    
+
+    }
 
 
      .white-back2 .content{
@@ -2279,6 +2291,14 @@ footer .title{
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
+}
+
+.white-back5 .content{
+    max-width: 350px;
+}
+
+.white-back5 .content h1{
+    text-align: left;
 }
 }
 
