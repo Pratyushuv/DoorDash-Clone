@@ -98,8 +98,9 @@ div.banner-but{
     border-radius: 20px;
     background-color: rgb(224, 31, 31);
     text-align: center;
-    height: 34%;
+    height: 35%;
     margin-right: 10px;
+    align-content: center;
 }
 
 div.banner-open-button{
@@ -921,6 +922,7 @@ text-decoration: none;
 
 .white-back5 .content h1, .white-back5 .content h2{
     line-height: 35px;
+    font-size: 24px;
 }
 .white-back5 .article4{
     display: flex;
@@ -984,6 +986,8 @@ text-decoration: none;
 
 .white-back6 .content h1, .white-back6 .content h2{
     line-height: 35px;
+    font-size: 24px;
+   
     
 }
 .white-back6 .article5{
@@ -1431,7 +1435,12 @@ display: block;
    
 }
 
-
+    .white-back4 .content span {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 40px;
+        text-align: left;
+    }
 .white-back2 .content .span1{
     font-size: 40px;
     font-weight: 700;
@@ -2015,13 +2024,13 @@ footer .title{
     }
 
     .white-back5 .content h1{
-        font-size: 30px;
+        font-size: 40px;
         text-align: left;
          margin-top: 40px;
     }
 
        .white-back6 .content h1{
-        font-size: 30px;
+        font-size: 40px;
         text-align: center;
          margin-right: 22px;
     }
