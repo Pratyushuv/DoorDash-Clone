@@ -1342,7 +1342,7 @@ display: none;
 
 
 
-@media screen and (max-width:808px){
+/* @media screen and (max-width:808px){
     
 .span1{
     font-size: 24px;
@@ -1366,7 +1366,7 @@ display: none;
     line-height: 30px;
     text-align: center;
 }
-}
+} */
 
 @media screen and (min-width:760px){
 
@@ -2213,6 +2213,7 @@ footer .title{
 .white-back1{
     justify-content: center;
     gap: 2.5rem;
+    margin-left: 50px;
 }
 
 .white-back3{
